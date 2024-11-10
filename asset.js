@@ -1,5 +1,5 @@
 
-// Define an array of assets
+// Task 1
 export const assets = [
     { id: 1, name: "Apple Stock", type: "stock", price: 69, quantity: 10 },
     { id: 2, name: "Tesla Stock", type: "stock", price: 300, quantity: 5 },
